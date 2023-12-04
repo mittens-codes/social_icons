@@ -1,0 +1,24 @@
+<!-- Font Awesome 6.4.2 CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<div id="div_foot"
+<div class="wrapper">
+  <a href="YOUR-FACEBOOK-LINK/" class="icon facebook" target="_blank">
+    <span><center><i class="fa-brands fa-facebook-f"></i></center></span>
+  </a>
+  <a href="YOUR-TWITTER-LINK" class="icon twitter", target="_blank">
+    <span><center><i class="fa-brands fa-x-twitter"></i></center></span>
+  </a>
+  <a href="YOUR-INSTAGRAM-LINK" class="icon instagram" target="_blank">
+    <span><center><i class="fa-brands fa-instagram"></i></center></span>
+  </a>
+  <a href="YOUR-YOUTUBE-LINK" class="icon youtube" target="_blank">
+    <span><center><i class="fa-brands fa-youtube"></i></center></span>
+  </a>
+  <a rel= "me" href="YOUR-MASTODON-LINK" class="icon mastodon" target="_blank">
+    <span><center><i class="fa-brands fa-mastodon"></i></center></span>
+  </a>
+  <a href="YOUR-RSS-FEED" class="icon rss">
+    <span><center><i class="fa-sharp fa-solid fa-rss"></i></center></span>
+  </a>
+</div>
+</div>
