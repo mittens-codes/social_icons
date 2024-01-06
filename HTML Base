@@ -20,5 +20,6 @@
   <a href="YOUR-RSS-FEED" class="icon rss">
     <span><center><i class="fa-sharp fa-solid fa-rss"></i></center></span>
   </a>
+  <!---You can add as many social icons as you want to, using the above synthax. These serve only as a working example.-->
 </div>
 </div>
